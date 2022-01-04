@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on website project
-- 📫 How to reach me React
+
 
 <!---
 ENG-SKYLER/ENG-SKYLER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
